@@ -1,0 +1,7 @@
+tls-client
+requests
+colorama
+svglib
+bs4
+beautifulsoup4
+reportlab
